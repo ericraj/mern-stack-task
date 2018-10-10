@@ -1,5 +1,5 @@
-# MERN-STACK-TASK
+# mern-stack-task
 CRUD app with MongoDB, Express, React and NodeJS.
 
-# Install packages
+# install packages
 $ npm intall
